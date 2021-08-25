@@ -10,7 +10,7 @@
 <div style="text-align: justify;">
 
 ### Descripción
-El módulo de __Máquinas Virtuales y WSL__ (Subsistema de Windows para Linux) forma parte del curso __Introducción al desarrollo de software__ y tiene como principal objetivo el hacer uso de Máquinas virtuales para correr el entorno de Sistemas Unix dentro de nuestra computadora de forma fácil y rápuda.
+El módulo de __Máquinas Virtuales y WSL__ (Subsistema de Windows para Linux) forma parte del curso __Introducción al desarrollo de software__ y tiene como principal objetivo el hacer uso de Máquinas virtuales para correr el entorno de Sistemas Unix dentro de nuestra computadora de forma fácil y rápida.
 
 ### Contenido
 
