@@ -1,14 +1,14 @@
 ## Curso de introducción al software con C
 
-<img src="https://www.pinclipart.com/picdir/big/539-5392404_transparent-c-language-logo-png-clipart.png" align="right" height="150" width="150">
+<img src="https://www.pinclipart.com/picdir/big/539-5392404_transparent-c-language-logo-png-clipart.png" align="right"  width="150">
 
-<img src="https://images.vexels.com/media/users/3/140692/isolated/preview/72d1f12edf758d24f5b6db73bac4f297-linux-logo-by-vexels.pngf" align="right" height="150" width="150" hspace="10">
+<img src="https://pluspng.com/img-png/linux-logo-png-difference-between-linux-and-window-operating-system-linux-logo-860x854.png" align="right" height="150" width="150" hspace="10">
 
 <div style="text-align: justify;">
 
 ### Descripción
 
-El curso de __Introducción al desarrollo de software en C__ es un espacio para aprender a hacer desarrollo profesional de software utilizando herramientas como lo es GNU-Linux, git, GitHub y otras más, y tiene como objetivo el sentar bases en el desarrollo de software haciendo implementaciones en lenguaje C.
+La programación es una herramienta fundamental que todos deberían de aprender, sin embargo para poder desarrollar software de forma profesional es necesario conocer otras herramientas más las cuales te permitiran tener conocimientos más solidos dentro de la programación. En el __Curso de desarrollo de Software__ aprenderás a aprovechar el potencial de sistemas operativos basados en UNIX, siendo capaz de __utilizar la terminal__ como una herramienta más en tú día a día, también nos adentraremos en el __lenguaje C__ y podremos llevar un correcto control de versiones con __Git y GitHub__
 
 ### Contenido
 
