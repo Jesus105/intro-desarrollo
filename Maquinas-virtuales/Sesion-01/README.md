@@ -16,7 +16,7 @@
 
  #### <ins> Instalación de Windows 10 </ins>
 
- <img src="https://banner2.cleanpng.com/20180403/see/kisspng-windows-10-iot-microsoft-windows-iot-10-5ac43d72549f17.0983668915228102263466.jpg" align="right" width="300"> 
+ <img src="https://logodownload.org/wp-content/uploads/2016/03/windows-10-logo-2.png" align="right" width="300"> 
 
 Comenzaremos instalando y configurando Windows 10 dentro de una máquina virtual utilizando el programa [`Oracle Virtual Box`](https://www.virtualbox.org/).
 
