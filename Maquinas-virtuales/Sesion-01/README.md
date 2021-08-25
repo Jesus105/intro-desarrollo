@@ -28,7 +28,7 @@ La Máquina Virtual ocupará recursos físicos de nuestro equipo para poder virt
 
 #### <ins> Instalación de Windows 10 </ins>
 
- <img src="https://img2.gratispng.com/20180316/wse/kisspng-ubuntu-logo-operating-systems-linux-distribution-pictures-of-people-holding-hands-5aac62ef8330e7.1883812015212469595374.jpg" align="right" width="300"> 
+ <img src="https://logonoid.com/images/ubuntu-logo.png" align="right" width="300"> 
 
 Dentro de este espacio nosotros instalaremos una versión LTS (de largo tiempo de soporte) de Ubuntu, además de configurar la máquina virtual y personalizar el entorno de escritorio para adaptarlo a nuestras necesidades.
 
