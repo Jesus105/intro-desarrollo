@@ -36,3 +36,5 @@ Dentro de este espacio nosotros instalaremos una versión LTS (de largo tiempo d
 - [**`Reto 1`**](Reto-01/README.md)
 
  [`Anterior`](../README.md) | [`Siguiente`](Ejemplo-01/README.md)
+
+ </div>
