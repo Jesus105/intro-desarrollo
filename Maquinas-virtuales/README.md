@@ -22,6 +22,6 @@ El módulo de __Máquinas Virtuales y WSL__ (Subsistema de Windows para Linux) f
  [`Virtual Box`](https://www.virtualbox.org/wiki/Downloads)
  [`WSL`](https://docs.microsoft.com/es-es/windows/wsl/install-win10)
 
- [`Siguiente`](Sesion-01)
+ [`Anterior`](../README.md) [`Siguiente`](Sesion-01/README.md)
 
  </div>

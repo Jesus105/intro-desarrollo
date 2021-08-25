@@ -22,6 +22,6 @@ La programación es una herramienta fundamental que todos deberían de aprender,
  [`WSL`](https://docs.microsoft.com/es-es/windows/wsl/install-win10)
  [`Visual Studio Code`](https://code.visualstudio.com/)
 
- [`Siguiente`](Maquinas-virtuales/Readme.md)
+ [`Siguiente`](Maquinas-virtuales/README.md)
 
  </div>
