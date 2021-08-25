@@ -35,6 +35,6 @@ Dentro de este espacio nosotros instalaremos una versión LTS (de largo tiempo d
 - [**`Ejemplo 2`**](../../file_404.md)
 - [**`Reto 1`**](../../file_404.md)
 
- [`Anterior`](../README.md) | [`Siguiente`](../../file_404.md)
+ [`Anterior`](../README.md) | [`Siguiente`](../../../file_404.md)
 
  </div>
