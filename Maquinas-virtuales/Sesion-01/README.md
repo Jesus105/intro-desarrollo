@@ -16,7 +16,7 @@
 
  #### <ins> Instalación de Windows 10 </ins>
 
- <img src="https://logodownload.org/wp-content/uploads/2016/03/windows-10-logo-2.png" align="right" width="300"> 
+ <img src="https://logodownload.org/wp-content/uploads/2016/03/windows-10-logo-2.png" align="right" width="100"> 
 
 Comenzaremos instalando y configurando Windows 10 dentro de una máquina virtual utilizando el programa [`Oracle Virtual Box`](https://www.virtualbox.org/).
 
@@ -26,9 +26,9 @@ La Máquina Virtual ocupará recursos físicos de nuestro equipo para poder virt
 
 --- 
 
-#### <ins> Instalación de Windows 10 </ins>
+#### <ins> Instalación de Ubuntu </ins>
 
- <img src="https://logonoid.com/images/ubuntu-logo.png" align="right" width="300"> 
+ <img src="https://logonoid.com/images/ubuntu-logo.png" align="right" width="100"> 
 
 Dentro de este espacio nosotros instalaremos una versión LTS (de largo tiempo de soporte) de Ubuntu, además de configurar la máquina virtual y personalizar el entorno de escritorio para adaptarlo a nuestras necesidades.
 
