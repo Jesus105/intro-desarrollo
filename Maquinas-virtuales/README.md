@@ -14,8 +14,8 @@ El módulo de __Máquinas Virtuales y WSL__ (Subsistema de Windows para Linux) f
 
 ### Contenido
 
- - [Sesión 1: Máquinas virtuales](Sesion-01/Readme.md) 
- - [Sesión 2: WSL](Sesion-02/Readme.md)
+ - [Sesión 1: Máquinas virtuales](Sesion-01/README.md) 
+ - [Sesión 2: WSL](Sesion-02/README.md)
 
 
  ### Instalaciones

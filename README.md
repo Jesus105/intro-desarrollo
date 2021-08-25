@@ -12,10 +12,10 @@ La programación es una herramienta fundamental que todos deberían de aprender,
 
 ### Contenido
 
- - [Módulo 1: Máquinas virtuales y WSL](Maquinas-virtuales/Readme.md) 
- - [Módulo 2: Introducción al uso de la terminal](Terminal/Readme.md)
- - [Módulo 3: Programación en C](progranaciion-C/Readme.md)
- - [Módulo 4: git y GitHub](git/Readme.md)
+ - [Módulo 1: Máquinas virtuales y WSL](Maquinas-virtuales/README.md) 
+ - [Módulo 2: Introducción al uso de la terminal](Terminal/README.md)
+ - [Módulo 3: Programación en C](progranaciion-C/README.md)
+ - [Módulo 4: git y GitHub](git/README.md)
 
  ### Instalaciones
  [`Virtual Box`](https://www.virtualbox.org/wiki/Downloads)
