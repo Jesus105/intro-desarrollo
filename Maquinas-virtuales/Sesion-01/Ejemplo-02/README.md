@@ -19,7 +19,7 @@
 
 <br>
 
-![imagen](img/nueva.png)
+![imagen](Img/nueva.png)
 
 ---
 
@@ -27,7 +27,7 @@
 
 <br>
 
-![imagen](img/Ubuntu.png)
+![imagen](Img/Ubuntu.png)
 
 ---
 
@@ -35,7 +35,7 @@
 
 <br>
 
-![imagen](img/RAM.png)
+![imagen](Img/RAM.png)
 
 ---
 
@@ -43,14 +43,14 @@
 
 <br>
 
-![imagen](img/DISK.png)
+![imagen](Img/DISK.png)
 
 ---
 5. Seleccionamos la opción de __VDI__ y presionamos Next
 
 <br>
 
-![imagen](img/DISK.png)
+![imagen](Img/DISK.png)
 
 ---
 
@@ -58,7 +58,7 @@
 
 <br>
 
-![imagen](img/Din.png)
+![imagen](Img/Din.png)
 
 ---
 
@@ -66,7 +66,7 @@
 
 <br>
 
-![imagen](img/Disk_size.png)
+![imagen](Img/Disk_size.png)
 
 ---
 
@@ -74,13 +74,13 @@
 
 <br>
 
-![imagen](img/config.png)
+![imagen](Img/config.png)
 
 9. En el menú lateral presionamos Almacenamiento, y luego hacemos click sobre el disco que dice __vacío__
 
 <br>
 
-![imagen](img/vacio.png)
+![imagen](Img/vacio.png)
 
 ---
 
@@ -88,7 +88,7 @@
 
 <br>
 
-![imagen](img/montar_ISO.png)
+![imagen](Img/montar_ISO.png)
 
 ---
 
@@ -96,7 +96,7 @@
 
 <br>
 
-![imagen](img/montar_ISO.png)
+![imagen](Img/montar_ISO.png)
 
 ---
 
@@ -104,7 +104,7 @@
 
 <br>
 
-![imagen](img/Iniciar.png)
+![imagen](Img/Iniciar.png)
 
 ---
 
@@ -112,7 +112,7 @@
 
 <br>
 
-![imagen](img/Instalar.png)
+![imagen](Img/Instalar.png)
 
 ---
 
@@ -120,7 +120,7 @@
 
 <br>
 
-![imagen](img/Teclado.png)
+![imagen](Img/Teclado.png)
 
 ---
 
@@ -128,7 +128,7 @@
 
 <br>
 
-![imagen](img/Actualizaciones.png)
+![imagen](Img/Actualizaciones.png)
 
 ---
 
@@ -136,7 +136,7 @@
 
 <br>
 
-![imagen](img/Tipo_i.png)
+![imagen](Img/Tipo_i.png)
 
 ---
 
@@ -144,7 +144,7 @@
 
 <br>
 
-![imagen](img/Escribir_d.png)
+![imagen](Img/Escribir_d.png)
 
 ---
 
@@ -152,7 +152,7 @@
 
 <br>
 
-![imagen](img/Zona_h.png)
+![imagen](Img/Zona_h.png)
 
 ---
 
@@ -160,7 +160,7 @@
 
 <br>
 
-![imagen](img/Datos.png)
+![imagen](Img/Datos.png)
 
 ---
 
