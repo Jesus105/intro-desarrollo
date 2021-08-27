@@ -12,6 +12,7 @@
 
 1. Tener [`Oracle Virtual Box`](https://www.virtualbox.org/) instalado 
 2. Descargar la ISO de [`Windows 10`](https://www.microsoft.com/es-es/evalcenter/evaluate-windows-10-enterprise) (Instrucciones más abajo)
+3. Tener acceso a una cuenta de  
 
 ### 3. Desarrollo :rocket:
 
@@ -106,7 +107,15 @@
 
 ---
 
-11. Una vez presionado Vació nos desplegrá un nuevo menú a la derecha, ahí debemos de buscar el __ícono del disco azul__ y ahí presionar la opción __seleccionar archivo de disco__. Dentro de ese explorador de archivos debemos de seleccionar el archivo ISO de Win10 que descargamos anteriormente y presionamos aceptar.
+11. Una vez presionado Vació nos desplegrá un nuevo menú a la derecha, ahí debemos de buscar el __ícono del disco azul__ y ahí presionar la opción __seleccionar archivo de disco__. Dentro de ese explorador de archivos debemos de seleccionar el archivo ISO de Win10 que descargamos anteriormente.
+
+<br>
+
+![imagen](img/montar_ISO.png)
+
+---
+
+12. Una vez realizado el paso anterior, en el menú lateral nos dirigimos al apartado de Red, y nos sercioramos que este seleccionada la casilla *Habilitar adaptador de red* y que dentro de la opción __conectado a__ aparezca *NAT*. Una vez esto configurado presionamos aceptar.
 
 <br>
 

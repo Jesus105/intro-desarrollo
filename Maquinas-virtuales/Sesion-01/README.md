@@ -1,4 +1,4 @@
-[`Introducción al desarrollo de software`](../../README.md) > [`Módulo 1`](../../README.md) > [`Sesión 1`](../README.md) > `Ejemplo 1`
+[`Introducción al desarrollo de software`](../../README.md) > [`Módulo 1`](..README.md) > `Sesión 1` 
 
 ## Sesión 1: Máquinas virtuales 
 
@@ -32,9 +32,9 @@ La Máquina Virtual ocupará recursos físicos de nuestro equipo para poder virt
 
 Dentro de este espacio nosotros instalaremos una versión LTS (de largo tiempo de soporte) de Ubuntu, además de configurar la máquina virtual y personalizar el entorno de escritorio para adaptarlo a nuestras necesidades.
 
-- [**`Ejemplo 2`**](../../file_404.md)
+- [**`Ejemplo 2`**](Ejemplo-02/README.md)
 - [**`Reto 1`**](../../file_404.md)
 
- [`Anterior`](../README.md) | [`Siguiente`](../../../file_404.md)
+ [`Anterior`](../README.md) | [`Siguiente`](Ejemplo-01/README.md)
 
  </div>
