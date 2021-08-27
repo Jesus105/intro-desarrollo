@@ -164,7 +164,22 @@
 
 ---
 
-#### __¡Listo, ya has instalado Ubuntu en una máquina virtual!__ ahora tienes todo para comenzar a desarrollar. :D
+21. Una vez terminado el proceso de instalación solo debemos de apagar la máquina presionando el botón de cerrar la ventana.
+
+<br>
+
+![imagen](Img/off.png)
+
+---
+
+#### 22. Por paso final solo debes de volver a encender la máquina __¡Listo, ya has instalado Ubuntu en una máquina virtual!__ ahora tienes todo para comenzar a desarrollar. :D
+
+<br>
+
+![imagen](Img/final.png)
+
+---
+
 [`Anterior`](../README.md) | [`Siguiente`](../Reto-01/README.md)
 
 </div>
