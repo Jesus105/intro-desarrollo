@@ -33,7 +33,7 @@ La Máquina Virtual ocupará recursos físicos de nuestro equipo para poder virt
 Dentro de este espacio nosotros instalaremos una versión LTS (de largo tiempo de soporte) de Ubuntu, además de configurar la máquina virtual y personalizar el entorno de escritorio para adaptarlo a nuestras necesidades.
 
 - [**`Ejemplo 2`**](Ejemplo-02/README.md)
-- [**`Reto 1`**](../../file_404.md)
+- [**`Reto 1`**](Reto-01/README.md)
 
  [`Anterior`](../README.md) | [`Siguiente`](Ejemplo-01/README.md)
 
