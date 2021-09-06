@@ -31,6 +31,7 @@
 3. Habilitar las características de máquina virtual
 
 *dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart*
+
 ---
 
 4. Descargar [`el paquete de actualización del Kernel de Linux`](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
@@ -45,9 +46,15 @@
 
 6. Instalar la distribución desdeada. Para esto abriremos la *Microsoft Store* en nuestras computadoras y buscaremos *Ubuntu*, ahí seleccionaremos la primera opción y daremos en descargar.
 
-[imagen](img/store.png)
+<br>
+
+![imagen](img/store.png)
+
+---
 
 7. Ahora solo queda configurar nuestro Ubuntu!
+
+---
  
 [`Anterior`](../Sesion-01/Reto-01/README.md) | [`Siguiente`](../../Intro-linux/README.md)
 
