@@ -12,7 +12,7 @@
 
 1. Tener [`Oracle Virtual Box`](https://www.virtualbox.org/) instalado 
 2. Descargar la ISO de [`Windows 10`](https://www.microsoft.com/es-es/evalcenter/evaluate-windows-10-enterprise) (Instrucciones más abajo)
-3. Tener acceso a una cuenta de  
+3. Tener acceso a una cuenta de Microsoft 
 
 ### 3. Desarrollo :rocket:
 

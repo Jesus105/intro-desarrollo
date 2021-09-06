@@ -13,7 +13,7 @@
 1. Tener [`Oracle Virtual Box`](https://www.virtualbox.org/) instalado 
 2. Descargar la ISO de [`Linux Mint`](https://linuxmint.com/download.php) 
 
-### 3. Desarroll
+### 3. Desarrollo
 
 Instalando Linux Mint dentro de la máquina virtual contesta las siguientes preguntas?
 
