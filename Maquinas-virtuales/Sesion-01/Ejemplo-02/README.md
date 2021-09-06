@@ -180,6 +180,6 @@
 
 ---
 
-[`Anterior`](../README.md) | [`Siguiente`](../Reto-01/README.md)
+[`Anterior`](../Ejemplo-01/README.md) | [`Siguiente`](../Reto-01/README.md)
 
 </div>
