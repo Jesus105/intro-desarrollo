@@ -1,4 +1,4 @@
-[`Introducción al desarrollo de software`](../../README.md) > [`Módulo 1`](..README.md) > `Sesión 1` 
+[`Introducción al desarrollo de software`](../../README.md) > [`Módulo 1`](../README.md) > `Sesión 1` 
 
 ## Sesión 1: Máquinas virtuales 
 

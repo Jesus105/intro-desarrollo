@@ -19,6 +19,7 @@ Corre los siguientes comandos dentro de tu terminal y observa qué sucede:
 - date
 - echo "Este es el segundo comando"
 - man ls (para salir de este debes de presionar q)
+- touch hola.txt
 
 Por último ingresa los siguientes dos comandos
 
