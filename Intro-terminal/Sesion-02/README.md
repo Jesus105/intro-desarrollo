@@ -75,6 +75,12 @@ __Con pipe__ <br>
 
 #### <ins> Procesos </ins>
 
+*Comandos clave*
+- jobs
+- fg
+- ps
+- top
+
 *Procesos en segundo plano*
 
 Hasta el momento hemos lanzado únicamente procesos en primer plano, sin embargo podemos tener varios procesos ejecutándose de forma paralela 
@@ -83,7 +89,7 @@ Para esto nosotros tenemos que ocupar un & al final del proceso para que este se
 
 -- sudo apt update -y &
 
-De igual forma podemos ejecutar un proceso en primer plano y después mandarlo hacia el segundo plano con  Ctrl + z, y con el comando fg lo podemos traer de regreso al primer plano.
+De igual forma podemos ejecutar un proceso en primer plano y después mandarlo hacia el segundo plano con  Ctrl + z, y con el comando __fg__ lo podemos traer de regreso al primer plano.
 
 Por otra parte en caso de que nosotros queramos ver los procesos del sistema podemos ocupar __ps__ y __top__. 
 
