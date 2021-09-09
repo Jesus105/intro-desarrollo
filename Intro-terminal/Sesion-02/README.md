@@ -41,29 +41,30 @@ En este caso ejecutará el comando ls, solo que en vez de mostrarnos los datos p
 
 Una variante de esto es adicionar una > en el comando, y lo que hará es agregar al final del archivo indicado lo que debería arrojar en pantalla el comando que hemos especificado, como se verá en el siguiente ejemplo:
 
--- cat archivo.txt
+-- cat archivo.txt <br>
 -- Contenido del arcivo
 
--- ls -a
+-- ls -a <br>
 -- archivo.txt
 
--- ls -a >> archivo.txt 
+-- ls -a >> archivo.txt <br> 
 -- cat archivo.txt
 
--- Contenido del archivo
+-- Contenido del archivo <br>
 -- archivo.txt
 
 Y en caso de que la salida de un proceso es la entrada de otro, y así muchas veces, podríamos hacerlo de forma manual, sin embargo esto es bastante tardado e ineficiente, por otra parte podemos hacerlo de forma automática, lo cual facilita la ejecución de varios procesos, para esto nosotros ocupamos pipes o tuberías.( __| ← Este es el símbolo de pipe__), como lo veremos en el siguiente ejemplo:
 
-__Sin pipe__
+__Sin pipe__ <br>
 
--- touch fecha.txt
--- date > fecha.txt
--- cat fecha.txt
--- Wed Oct 28 05:40:36 CST 2020
+-- touch fecha.txt <br>
+-- date > fecha.txt<br>
+-- cat fecha.txt<br>
+-- Wed Oct 28 05:40:36 CST 2020 <br>
 
-__Con pipe__
--- nano fecha.txt | date > fecha.txt | cat fecha.txt
+__Con pipe__ <br>
+
+-- nano fecha.txt | date > fecha.txt | cat fecha.txt<br>
 -- Wed Oct 28 05:40:36 CST 2020
 
 
@@ -74,34 +75,46 @@ __Con pipe__
 
 #### <ins> Procesos </ins>
 
- <img src="https://1.bp.blogspot.com/-yy_Hx9gfrx0/WlvFi-u9iFI/AAAAAAAAElk/0bipfBVLpYgnMhsvouztH3kqL0HpzdFDgCLcBGAs/s1600/arc.jpg" align="right" width="100"> 
+*Procesos en segundo plano*
 
-Dentro de este espacio nosotros conoceremos los comandos básicos del sistema de archivos de Linux: 
+Hasta el momento hemos lanzado únicamente procesos en primer plano, sin embargo podemos tener varios procesos ejecutándose de forma paralela 
+ 
+Para esto nosotros tenemos que ocupar un & al final del proceso para que este sea ejecutado en segundo plano, como se verá en el siguiente ejemplo:
 
-- *pwd* Nos da la ruta del directorio donde nos encontramos
-- *ls* Lista los archivos dentro de un directorio
-- *cd <directorio>*  Cambia el directorio
-- *mkdir <directorio>* Crea un nuevo directorio
-- *cp* Copia un archivo
-- *rm* Remueve un directorio
+-- sudo apt update -y &
 
-- [**`Reto 2`**](Reto-02/README.md)
+De igual forma podemos ejecutar un proceso en primer plano y después mandarlo hacia el segundo plano con  Ctrl + z, y con el comando fg lo podemos traer de regreso al primer plano.
+
+Por otra parte en caso de que nosotros queramos ver los procesos del sistema podemos ocupar __ps__ y __top__. 
+
+
+En el caso de __ps__ solo con teclearlo nos muestra los procesos que están dentro del sistema y también tenemos algunos modificadores como lo son:
+- Para ver todos los procesos del sistema ocupando sintaxis standard:
+1. ps -e
+2. ps -ef
+3. ps -eF
+4. ps -ely
+
+- Para ver todos los procesos ocupando la sintaxis BSD
+1. ps ax
+2. ps axu
+
+- Para imprimir el árbol de procesos:
+1. ps -ejh
+2. ps axms
+
+- Para obtener información acerca de los hilos
+1. ps -eLf
+2. ps axms
+
+
+Por otra parte tenemos __top__, el cual a diferencia de ps, este es un proceso interactivo y no estático, por lo tanto se está actualizando de manera constante en la terminal
+
+En caso de que queramos detener algún proceso tenemos varias alternativas. En caso de que este se esté ejecutando en primer plano únicamente podremos hacer __Ctrl + c__ y esto detendrá cualquier proceso. Por otra parte si queremos detener un proceso que se está ejecutando en segundo plano podemos ocupar los comandos __kill__ y __killall__.
+El comando kill -9 <número de proceso> significa que el proceso tendrá que terminarse de manera inmediata. En el caso del comando killall es exactamente lo mismo, su única diferencia con respecto a kill es la forma en la que indicamos que proceso terminar, en este casi es así killall -9 python3 loop.py 
 
 --- 
 
-#### <ins> Manipulando archivos de texto </ins>
-
- <img src="https://1.bp.blogspot.com/-yy_Hx9gfrx0/WlvFi-u9iFI/AAAAAAAAElk/0bipfBVLpYgnMhsvouztH3kqL0HpzdFDgCLcBGAs/s1600/arc.jpg" align="right" width="100"> 
-
-Dentro de este espacio nosotros conoceremos los comandos para manipular archivos de texto en la terminal: 
-
-- *nano* Nos permite ejecutar un editor de texto dentro de nuestra terminal
-- *cat* Nos muestra todo el contenido de un archivo
-- *head* Solo nos muestra las primeras líneas del archivo
-- *tail* Nos muestra las últimas lineas de texto del archivo
-
-- [**`Reto 3`**](Reto-03/README.md)
-
- [`Anterior`](../Ejemplo-02/README.md) | [`Siguiente`](Ejemplo-01/README.md)
+[`Anterior`](../Ejemplo-02/README.md) 
 
  </div>
