@@ -15,7 +15,7 @@ El módulo de __Introducción al uso de terminal con Linux__ forma parte del cur
 ### Contenido
 
  - [Sesión 3: Primeros pasos por la terminal](Sesion-01/README.md) 
- - [Sesión 4: Utilidades del batch y procesos](../file_404.md)
+ - [Sesión 4: Utilidades del batch y procesos](Sesion-02/README.md)
  - [Sesión 5: Manejo de paquetes, usarios y permisos sobre archivos](../file_404.md)
  - [Sesión 6: Herramientas de compresión y búsqueda de archivos](../file_404.md)
  - [Sesión 7: Programación en Bash](../file_404.md)

@@ -6,7 +6,7 @@
 
 ### 1. Objetivos :dart:
 
-- Conocer algunos comandos básicos de Linux
+- Aprender sobre el uso de pipes en el flujo de procesos
 
 ### 2. Requisitos :clipboard:
 
@@ -14,18 +14,13 @@
 
 ### 3. Desarrollo
 
-Corre los siguientes comandos dentro de tu terminal y observa qué sucede:
+- Crea un archivo llamado comandos.txt
+- Guarda los primeros 20 comandos de tu terminal en el archivo
+- Imprime la información contenida en el archivo
 
-- date
-- echo "Este es el segundo comando"
-- man ls (para salir de este debes de presionar q)
-- touch hola.txt
+---
 
-Por último ingresa los siguientes dos comandos
-
-- history
-- !2
-
+Ahora realiza lo mismo utilizando unicamente un comando
 
 [`Anterior`](../README.md) 
 </div>
