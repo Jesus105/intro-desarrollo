@@ -6,25 +6,26 @@
 
 ### 1. Objetivos :dart:
 
-- Conocer algunos comandos básicos de Linux
+- Instalar Linux Mint
 
 ### 2. Requisitos :clipboard:
 
-1. Tener acceso a una terminal de Linux
-
+1. Tener [`Oracle Virtual Box`](https://www.virtualbox.org/) instalado 
+2. Descargar la ISO de [`Linux Mint`](https://linuxmint.com/download.php)
 ### 3. Desarrollo
 
-Corre los siguientes comandos dentro de tu terminal y observa qué sucede:
+- Con lo revisado en el ejemplo 1 y 2 instala Linux Mint
+---
 
-- date
-- echo "Este es el segundo comando"
-- man ls (para salir de este debes de presionar q)
+Contesta las siguientes preguntas:
 
-Por último ingresa los siguientes dos comandos
+- ¿Qué es un escritorio en Linux?
+- Menciona 3 escritorios de Linux
+- Investiga 3 distribuciones más de Linux y conoce el próposito de cada una
 
-- history
-- !2
+---
 
+Ahora realiza lo mismo utilizando unicamente un comando
 
-[`Anterior`](../README.md) 
+[`Anterior`](../README.md) | [`Siguiente`](../../../Intro-terminal)
 </div>
