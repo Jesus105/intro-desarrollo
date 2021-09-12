@@ -6,21 +6,26 @@
 
 ### 1. Objetivos :dart:
 
-- Aprender sobre el uso de pipes en el flujo de procesos
+- Instalar Linux Mint
 
 ### 2. Requisitos :clipboard:
 
-1. Tener acceso a una terminal de Linux
-
+1. Tener [`Oracle Virtual Box`](https://www.virtualbox.org/) instalado 
+2. Descargar la ISO de [`Linux Mint`](https://linuxmint.com/download.php)
 ### 3. Desarrollo
 
-- Crea un archivo llamado comandos.txt
-- Guarda los primeros 20 comandos de tu terminal en el archivo
-- Imprime la información contenida en el archivo
+- Con lo revisado en el ejemplo 1 y 2 instala Linux Mint
+---
+
+Contesta las siguientes preguntas:
+
+- ¿Qué es un escritorio en Linux?
+- Menciona 3 escritorios de Linux
+- Investiga 3 distribuciones más de Linux y conoce el próposito de cada una
 
 ---
 
 Ahora realiza lo mismo utilizando unicamente un comando
 
-[`Anterior`](../README.md) 
+[`Anterior`](../README.md) | [`Siguiente`](../../../Intro-terminal)
 </div>
