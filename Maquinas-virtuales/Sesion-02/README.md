@@ -56,6 +56,6 @@
 
 ---
  
-[`Anterior`](../Sesion-01/Reto-01/README.md) | [`Siguiente`](../../Intro-linux/README.md)
+[`Anterior`](../Sesion-01/Reto-01/README.md) | [`Siguiente`](../../Intro-terminal/README.md)
 
  </div>

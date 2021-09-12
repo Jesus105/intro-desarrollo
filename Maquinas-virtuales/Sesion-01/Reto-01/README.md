@@ -27,5 +27,5 @@ Contesta las siguientes preguntas:
 
 Ahora realiza lo mismo utilizando unicamente un comando
 
-[`Anterior`](../README.md) | [`Siguiente`](../../../Intro-terminal)
+[`Anterior`](../README.md) | [`Siguiente`](../Sesion-02)
 </div>
