@@ -62,8 +62,6 @@ Dentro de este espacio nosotros conoceremos los comandos básicos del sistema de
 
 #### <ins> Manipulando archivos de texto </ins>
 
- <img src="https://1.bp.blogspot.com/-yy_Hx9gfrx0/WlvFi-u9iFI/AAAAAAAAElk/0bipfBVLpYgnMhsvouztH3kqL0HpzdFDgCLcBGAs/s1600/arc.jpg" align="right" width="100"> 
-
 Dentro de este espacio nosotros conoceremos los comandos para manipular archivos de texto en la terminal: 
 
 - *nano* Nos permite ejecutar un editor de texto dentro de nuestra terminal
@@ -73,6 +71,6 @@ Dentro de este espacio nosotros conoceremos los comandos para manipular archivos
 
 - [**`Reto 3`**](Reto-03/README.md)
 
- [`Anterior`](../Ejemplo-02/README.md) | [`Siguiente`](Ejemplo-01/README.md)
+ [`Anterior`](../README.md) | [`Siguiente`](Reto-01/README.md)
 
  </div>

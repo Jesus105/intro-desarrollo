@@ -20,8 +20,8 @@ El módulo de __Introducción al uso de terminal con Linux__ forma parte del cur
  - [Sesión 6: Herramientas de compresión y búsqueda de archivos](../file_404.md)
  - [Sesión 7: Programación en Bash](../file_404.md)
 
- ### Instalaciones
+---
 
- [`Anterior`](../README.md) | [`Siguiente`](Sesion-01/README.md)
+ [`Anterior`](../Maquinas-virtuales/Sesion-02/README.md) | [`Siguiente`](Sesion-01/README.md)
 
  </div>
