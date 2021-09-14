@@ -1,6 +1,6 @@
 [`Introducción al desarrollo de software`](../../../README.md) > [`Módulo 2`](../../README.md) > [`Sesión 4`](../README.md) > `Retos`
 
-## Reto 1: Conociendo los primeros comandos
+## Retos sesión 4 terminal
 
 <div style="text-align: justify;">
 
