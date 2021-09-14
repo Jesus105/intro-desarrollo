@@ -24,15 +24,15 @@
 *Gzip*, la herramienta de compresión de datos, fue creada por los programadores Jean-Loup Gailly y Mark Adler, que llevaron a cabo la misión de desarrollar una alternativa de alto rendimiento para el programa compress de Unix. Tanto sus funciones como su procedimiento están definidas en el estándar de POSIX, que se encarga de la compresión de archivos mediante el algoritmo adaptativo Lempel-Ziv. Tanto el algoritmo como su ampliación, llevada a cabo por el científico Terry Welch, estuvieron protegidas durante años (hasta 2003) por patentes estadounidenses, lo que se convirtió en un motivo más que decisivo para trabajar en una alternativa adecuada para este. En ello, el foco de atención se centró en hacer que la compresión con gzip fuera más eficiente de lo que era con la herramienta de Unix, algo que se logró con éxito.
 
 - *-1 ... -9* Define el grado de compresión (1–9): el valor 1 se aplica a la compresión más débil y más rápida y el valor 9 a la mejor compresión, pero también más lenta; 5 es el valor predeterminado
-- *-* Hace un recorrido de manera recursiva por el directorio (incluyendo los subdirectorios) y comprime o descomprime todos los archivos que contiene
-- *-* Fuerza la compresión con gzip y sobreescribe, en caso necesario, los archivos existentes con los mismos nombres de archivo
-- *-* Descomprime el archivo seleccionado en el directorio actual
-- *-* Impide la eliminación del archivo original
-- *-* Muestra datos como, p. ej., la tasa de compresión de un archivo comprimido
-- *-* Hace que el archivo comprimido vuelva a su versión estándar; por lo general, la pantalla asociada a la línea de comandos
-- *-* Desactiva todas las notificaciones de gzip
-- *-* Comprueba la integrad del archivo comprimido
-- *-* Ofrece una lista de todas las opciones disponibles
+- *-r* Hace un recorrido de manera recursiva por el directorio (incluyendo los subdirectorios) y comprime o descomprime todos los archivos que contiene
+- *-f* Fuerza la compresión con gzip y sobreescribe, en caso necesario, los archivos existentes con los mismos nombres de archivo
+- *-d* Descomprime el archivo seleccionado en el directorio actual
+- *-k* Impide la eliminación del archivo original
+- *-l* Muestra datos como, p. ej., la tasa de compresión de un archivo comprimido
+- *-c* Hace que el archivo comprimido vuelva a su versión estándar; por lo general, la pantalla asociada a la línea de comandos
+- *-q* Desactiva todas las notificaciones de gzip
+- *-t* Comprueba la integrad del archivo comprimido
+- *-h* Ofrece una lista de todas las opciones disponibles
 
 *Ejemplos:* <br>
 
