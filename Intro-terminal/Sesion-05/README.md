@@ -27,11 +27,11 @@ Las variables son un espacio donde nosotros podemos almacenar información. De e
 
 Por ejemplo en dado caso que querramos realizar una suma debemos de seguir el siguiente ejemplo
 
--- num_1 = 5
--- num_2 = 7
--- resultado = $num_1 + $num_2
+-- num_1 = 5 <br>
+-- num_2 = 7 <br>
+-- resultado = $num_1 + $num_2<br>
 
--- echo "La suma de $num_1 más $num_2 da como resultado $resultado"
+-- echo "La suma de $num_1 más $num_2 da como resultado $resultado"<br>
 
 --- 
 
@@ -39,20 +39,20 @@ Por ejemplo en dado caso que querramos realizar una suma debemos de seguir el si
 
 Las entradas es la forma en que nosotros como usuarios podemos ingresar información útil al programa, las cuales se almacenan dentro de alguna varible, como en el siguiente ejemplo:
 
--- num_1 = 0
--- num_2 = 0
+-- num_1 = 0<br>
+-- num_2 = 0<br>
 
--- #Entradas con echo y read separados
--- echo -n "Ingrese un número":
--- read
--- num_1 = $REPLY
+-- #Entradas con echo y read separados<br>
+-- echo -n "Ingrese un número: "<br>
+-- read<br>
+-- num_1 = $REPLY<br>
 
--- #Entradas con echo y read separados
--- read -p "Ingrese otro número"
--- num_2 = $REPLY
+-- #Entradas con echo y read separados<br>
+-- read -p "Ingrese otro número"<br>
+-- num_2 = $REPLY<br>
 
--- resultado = $num_1 + $num_2
--- echo "La suma de $num_1 más $num_2 da como resultado $resultado"
+-- resultado = $num_1 + $num_2<br>
+-- echo "La suma de $num_1 más $num_2 da como resultado $resultado"<br>
 
 ---
 
@@ -60,64 +60,64 @@ Las entradas es la forma en que nosotros como usuarios podemos ingresar informac
 
 Un condicional en la programación es una sentencia o grupo de sentencias que puede ejecutarse o no en función del valor de una condición, vease el siguiente ejemplo: 
 
- if [condición]; then
-   accción 1
-   #exit
- elif [condición]; then
-   acción 2
-   #exit
- else 
-   acción 3
-   #exit
- fi"
+ if [condición]; then<br>
+   accción 1<br>
+   #exit<br>
+ elif [condición]; then<br>
+   acción 2<br>
+   #exit<br>
+ else <br>
+   acción 3<br>
+   #exit<br>
+ fi"<br>
 
-calificacion=0
-edad=0
+calificacion=0<br>
+edad=0<br>
 
-echo "Ejemplo del uso de condicionales if-else"
-read -n1 -p "Indique cuál es su calificación: " calificacion
-echo -e "\n"
+echo "Ejemplo del uso de condicionales if-else"<br>
+read -n1 -p "Indique cuál es su calificación: " calificacion<br>
+echo -e "\n"<br>
 
-if (($calificacion>=7)); then
-    echo "El alumno ha aprobado"
-    #exit
+if (($calificacion>=7)); then<br>
+    echo "El alumno ha aprobado"<br>
+    #exit<br>
 
-else  
-    echo "El alumno ha reprobado"
-    #exit
-fi
+else  <br>
+    echo "El alumno ha reprobado"<br>
+    #exit<br>
+fi<br>
 
-read -p "Indique cuál es su edad: " edad
-echo -e "\n"
+read -p "Indique cuál es su edad: " edad<br>
+echo -e "\n"<br>
 
-if [ $edad>17 ]; then
-    echo "El alumno es mayor de edad"
-    #exit
+if [ $edad>17 ]; then<br>
+    echo "El alumno es mayor de edad"<br>
+    #exit<br>
 
-else  
-    echo "El alumno es menor de edad"
-    #exit
-fi
+else  <br>
+    echo "El alumno es menor de edad"<br>
+    #exit<br>
+fi<br>
 
-if [ $edad>12 ] && [ $edad<18 ]; then
-    echo "El alumno es adolescente"
-    #exit
+if [ $edad>12 ] && [ $edad<18 ]; then<br>
+    echo "El alumno es adolescente"<br>
+    #exitv
 
-elif [ $edad>17 ] && [ $edad<30 ]; then
-    echo "El alumno es un joven"
-    #exit
+elif [ $edad>17 ] && [ $edad<30 ]; then<br>
+    echo "El alumno es un joven"<br>
+    #exit<br>
 
-elif [ $edad>31 ] && [ $edad<65 ]; then  
-    echo "El alumno es un adulto"
-    #exit
+elif [ $edad>31 ] && [ $edad<65 ]; then  <br>
+    echo "El alumno es un adulto"<br>
+    #exit<br>
 
-elif [ $edad>65 ]; then
-    echo "El alumno es un adulto mayor"
+elif [ $edad>65 ]; then<br>
+    echo "El alumno es un adulto mayor"<br>
 
-else  
-    echo "El alumno es un niño"
-    #exit
-fi
+else  <br>
+    echo "El alumno es un niño"<br>
+    #exit<br>
+fi<br>
 
  [`Anterior`](../README.md) | [`Siguiente`](Reto-01/README.md)
 
