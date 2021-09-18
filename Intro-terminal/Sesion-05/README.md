@@ -60,16 +60,16 @@ Las entradas es la forma en que nosotros como usuarios podemos ingresar informac
 
 Un condicional en la programación es una sentencia o grupo de sentencias que puede ejecutarse o no en función del valor de una condición, vease el siguiente ejemplo: 
 
-# if [condición]; then
-#   accción 1
-#   #exit
-# elif [condición]; then
-#   acción 2
-#   #exit
-# else 
-#   acción 3
-#   #exit
-# fi
+ if [condición]; then
+   accción 1
+   #exit
+ elif [condición]; then
+   acción 2
+   #exit
+ else 
+   acción 3
+   #exit
+ fi"
 
 calificacion=0
 edad=0
