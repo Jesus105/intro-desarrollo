@@ -106,6 +106,6 @@ __Directorio final__ Es donde se especificará el término de búsqueda relevant
 
 
 
- [`Anterior`](../README.md) | [`Siguiente`](Reto-01/README.md)
+[`Anterior`](../Sesion-03/README.md) | [`Anterior`](../Sesion-05/README.md) 
 
  </div>

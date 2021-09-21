@@ -119,6 +119,6 @@ else  <br>
     #exit<br>
 fi<br>
 
- [`Anterior`](../README.md) | [`Siguiente`](Reto-01/README.md)
+[`Anterior`](../Sesion-04/README.md) | [`Anterior`](../../C/README.md) 
 
  </div>

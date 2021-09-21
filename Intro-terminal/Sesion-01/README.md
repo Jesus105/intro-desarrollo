@@ -71,6 +71,6 @@ Dentro de este espacio nosotros conoceremos los comandos para manipular archivos
 
 - [**`Reto 3`**](Reto-03/README.md)
 
- [`Anterior`](../README.md) | [`Siguiente`](Reto-01/README.md)
+ [`Anterior`](../README.md) | [`Siguiente`](../Sesion-02/README.md)
 
  </div>

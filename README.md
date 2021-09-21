@@ -14,7 +14,7 @@ La programación es una herramienta fundamental que todos deberían de aprender,
 
  - [Módulo 1: Máquinas virtuales y WSL](Maquinas-virtuales/README.md) 
  - [Módulo 2: Introducción al uso de la terminal](Intro-terminal/README.md)
- - [Módulo 3: Programación en C](./file_404.md)
+ - [Módulo 3: Programación en C](C/README.md)
  - [Módulo 4: git y GitHub](./file_404.md)
 
  ### Instalaciones

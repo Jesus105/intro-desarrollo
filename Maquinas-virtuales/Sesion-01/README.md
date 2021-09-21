@@ -35,6 +35,6 @@ Dentro de este espacio nosotros instalaremos una versión LTS (de largo tiempo d
 - [**`Ejemplo 2`**](Ejemplo-02/README.md)
 - [**`Reto 1`**](Reto-01/README.md)
 
- [`Anterior`](../Ejemplo-02/README.md) | [`Siguiente`](Ejemplo-01/README.md)
+ [`Anterior`](../README.md) | [`Siguiente`](../Sesion-02/README.md)
 
  </div>

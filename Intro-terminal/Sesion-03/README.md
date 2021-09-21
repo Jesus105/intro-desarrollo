@@ -73,6 +73,6 @@ Lynx es un navegador a través de terminal
 
 --
 
- [`Anterior`](../README.md) | [`Siguiente`](Reto-01/README.md)
+[`Anterior`](../Sesion-02/README.md) | [`Anterior`](../Sesion-04/README.md) 
 
  </div>

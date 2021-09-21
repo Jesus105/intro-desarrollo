@@ -121,6 +121,6 @@ El comando kill -9 <número de proceso> significa que el proceso tendrá que ter
 
 --- 
 
-[`Anterior`](../Ejemplo-02/README.md) 
+[`Anterior`](../Sesion-01/README.md) | [`Anterior`](../Sesion-03/README.md) 
 
  </div>
