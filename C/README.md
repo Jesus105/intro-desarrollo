@@ -1,6 +1,6 @@
 [`Introducción al desarrollo de software`](../README.md) > `Módulo 3`
 
-## Módulo 1: Introducción a la programación con C 
+## Módulo 3: Introducción a la programación con C 
 ## Curso de introducción al software con C
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" align="right"  width="150">

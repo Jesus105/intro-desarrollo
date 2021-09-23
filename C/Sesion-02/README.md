@@ -100,6 +100,6 @@ Podemos ver todo lo visto en el siguiente [`ejemplo`](Code/entrada-salida.c)
 - [**`Reto 2`**](Reto-02/README.md)
 
 
- [`Anterior`](../README.md) | [`Siguiente`](../Sesion-02/README.md)
+ [`Anterior`](../README.md) | [`Siguiente`](../Sesion-03/README.md)
 
  </div>
