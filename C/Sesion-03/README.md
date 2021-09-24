@@ -116,11 +116,10 @@ condicional (?:), utiliza tres operandos y es el único operador ternario de C
 - _<<_ Desplazamiento de bits a la izquierda<br>
 
 <br>
+
 - [**`Ejemplo 2`**](Code/Operadores.c)
 
-
 - [**`Reto 1`**](Code/Datos_p.c)
-
 
  [`Anterior`](../README.md) | [`Siguiente`](../Sesion-04/README.md)
 
