@@ -95,12 +95,21 @@ El ciclo while nos indica que mientras una condición sea verdadera este se esta
 Este ciclo funciona de una forma bastante similar al ciclo while, con la diferencia que este primero ejecuta de forma incodicional una vez el código contenido y después verifica que la condición se cumpla. En otras palabras si el ciclo while se ejecuta n veces que pueden ir de 0 a infinito, el ciclo do while se ejecuta n + 1 veces, puesto que como minimo este cumple su ejecución al menos en una vez. Su sintaxis es la siguiente:
 
 do{<br>
-    código a ejecutar:<br>
-}while(condición);<br>
+    código a ejecutar;<br>
+} while(condición);<br>
 
 - [**`Ejemplo 3`**](Code/dowhile.c)
 
+*for*
+El ciclo for por lo regular suele utilizarse para un número de iteraciones el cual nosotros definimos. Para la declaración de este ciclo debemos de poner una variable de tipo entero (regularmente el nombre de esta variable es i), luego tenemos que poner una condición en función de esta variable de control y por último alguna operación que involucre a esta misma variable como podemos ver en la sintaxis: <br>
 
- [`Anterior`](../README.md) | [`Siguiente`](../Sesion-03/README.md)
+for(int i = 0; i<10; i++){<br>
+    código a iterar;<br>
+}<br>
+
+- [**`Ejemplo 4`**](Code/for.c)
+- [**`Reto 2`**](Reto-02/README.md)
+
+ [`Anterior`](../README.md) | [`Siguiente`](../Sesion-05/README.md)
 
  </div>
