@@ -21,7 +21,7 @@
 
  #### <ins>Estructuras</ins>
 
-- *Estructuras*
+- *Estructuras*<br>
 Una _estructura_ es un conjunto de una o más variables, de distinto tipo, agrupadas bajo un mismo nombre para que su manejo sea más sencillo.
 
 Su utilización más habitual es para la programación de bases de datos, ya que están especialmente indicadas para el trabajo con registros o fichas.
