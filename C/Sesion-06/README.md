@@ -61,7 +61,7 @@ Las instrucciones de preprocesador usan el mismo juego de caracteres que las ins
 
 El preprocesador reconoce las siguientes directivas:<br>
 - [`#define`](https://docs.microsoft.com/es-es/cpp/preprocessor/hash-define-directive-c-cpp?view=msvc-160) El #define crea una macro, que es la asociación de un identificador o identificador con parámetros con una cadena de token. Una vez definida la macro, el compilador puede sustituir la cadena de token para cada aparición del identificador del archivo de código fuente. <br>
-- [`#include`](https://docs.microsoft.com/es-es/cpp/preprocessor/hash-include-directive-c-cpp?view=msvc-160Indica al preprocesador que incluya el contenido de un archivo especificado en el punto donde aparece la directiva.
+- [`#include`](https://docs.microsoft.com/es-es/cpp/preprocessor/hash-include-directive-c-cpp?view=msvc-160) Indica al preprocesador que incluya el contenido de un archivo especificado en el punto donde aparece la directiva.
 - [`#if`](https://docs.microsoft.com/es-es/cpp/preprocessor/hash-if-hash-elif-hash-else-and-hash-endif-directives-c-cpp?view=msvc-160)La #if, con las directivas #elif ,#else y #endif, controla la compilación de partes de un archivo de código fuente. Si la expresión que escribe (después del #if ) tiene un valor distinto de cero, el grupo de líneas inmediatamente después de la directiva #if se mantiene en la unidad de traducción.
 
  [`Anterior`](../README.md) | [`Siguiente`](../Sesion-05/README.md)
